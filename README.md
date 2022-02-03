@@ -13,7 +13,7 @@
 ![Calc1](https://github.com/GabiMA02/GabrielMuela/blob/main/calc.png)
 - Inside the inputs you write down your numbers, and with the select option you choose what operation you want to do, finally you press the button calcular and it will send you to another page where the operation is done and will show you it's result.
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the Creative Commons License. See LICENSE.txt for more information.
 ## Contact
 Gabriel Muela - gabrielmuela.daw@ciudadescolarfp.es
 
