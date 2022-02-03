@@ -1,5 +1,5 @@
 # About the project
-:1234: This project is four operations calculator with PHP
+:1234: This project is a four operations calculator with PHP
 ## Built With
 - PHP
 - HTML
