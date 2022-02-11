@@ -3,10 +3,8 @@
 ## Built With
 - PHP
 - HTML
-## Prerequisites
-- XAMPP to view PHP files on browser. Download from official website.
-	[Download](https://www.apachefriends.org/es/download.html)
-- A Code Text Editor of your choice
+## Installation
+- https://github.com/GabiMA02/GabrielMuela/wiki/Instalaci%C3%B3n
 ## Usage
 - To play the game you will have to choose an option between rock, paper or scissors, once you your option you click on
 Play, and it will randomly choose another option for the machine, once both users have chosen, there will show a winner.
