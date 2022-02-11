@@ -5,7 +5,7 @@
 </head>
 
     <h2>PIEDA, PAPEL O TIJERAS</h2>
-    <h2>CAMBIO REALIZADO DESDE GITHUB</h2>
+    <h2>HEMOS REALIZADO UNA MEJORA EN NUESTRO PROGRAMA!!</h2>
     <form action="" method="POST">
         <label>Escoja una opción: </label>
         <input type="radio" name="opcion" value="piedra">PIEDRA
